@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a recent grad looking for a job in software development and/or data science. 
+#### I'm a recent grad looking for a job in software development and/or data science. 
 
 🔭 I’m currently working on a geoguessr clone
 
