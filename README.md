@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-#### I'm a recent grad looking for a job in software development and/or data science. 
-
 <!--
 **axm2/axm2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
